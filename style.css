@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: linear-gradient(135deg,#4facfe,#00f2fe);
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    background:white;
+    padding:30px 50px;
+    border-radius:10px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+    color:#333;
+    font-size:40px;
+    text-align:center;
+}
